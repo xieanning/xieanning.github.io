@@ -1,2 +1,2 @@
 # Anning XIE
-![photo](IMG_3942.jpeg)
+![photo,style="zoom:50%;"](IMG_3942.jpeg)
