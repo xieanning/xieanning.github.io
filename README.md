@@ -7,3 +7,12 @@
     <p>Welcome</p>
   </div>
 </div>
+
+<div class="container">
+  <div class="column-left">
+    Hello
+  </div>
+  <div class="column-right">
+    World
+  </div>
+</div>
