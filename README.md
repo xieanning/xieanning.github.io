@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <div style="display: flex">
   <div style="width: 50%">
     <p>Hello</p>
@@ -16,3 +16,4 @@
     World
   </div>
 </div>
+</html>
