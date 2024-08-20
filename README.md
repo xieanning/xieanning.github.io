@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-
+<html lang="zh">
+<head>
 <style>
 .Container{
   display: flex;
@@ -12,7 +13,9 @@
   width:50%;
 }
 </style>
+</head>
 
+<body>
 <div class="container">
   <div class="column-left">
     Hello
@@ -21,4 +24,6 @@
     World
   </div>
 </div>
+
+</body>
 </html>
