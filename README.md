@@ -1,29 +1,15 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-<style>
-.Container{
-  display: flex;
-  column-count:2;
-}
-.left-column{
-  width:50%;
-}
-.right-column{
-  width:50%;
-}
-</style>
-</head>
-
-<body>
-<div class="container">
-  <div class="column-left">
-    Hello
-  </div>
-  <div class="column-right">
-    World
+<div class="split left">
+  <div class="centered">
+    
+    <h2>Jane Flex</h2>
+    <p>Some text.</p>
   </div>
 </div>
 
-</body>
-</html>
+<div class="split right">
+  <div class="centered">
+    
+    <h2>John Doe</h2>
+    <p>Some text here too.</p>
+  </div>
+</div>
