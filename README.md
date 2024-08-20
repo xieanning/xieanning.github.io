@@ -1,7 +1,7 @@
 
 <div style="display: flex;">
   <div style="width:50%;">
-    <img src="/photo.jpg">
+    Hello
   </div>
   <div style="width:50%;">
     Welcome
