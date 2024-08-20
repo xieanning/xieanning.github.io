@@ -1,9 +1,9 @@
 
 <div style="display: flex;">
   <div style="width: 50%;">
-    Hello
+    <p>Hello</p>
   </div>
   <div style="width: 50%;">
-    Welcome
+    <p>Welcome</p>
   </div>
 </div>
